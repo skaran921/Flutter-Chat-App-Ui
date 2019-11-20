@@ -1,3 +1,6 @@
+![](https://github.com/skaran921/Flutter-Chat-App-Ui/blob/master/Screenshot_20191120-175654.jpg)
+![](https://github.com/skaran921/Flutter-Chat-App-Ui/blob/master/Screenshot_20191120-175650.jpg)
+
 # chat_ui
 
 A new Flutter project.
